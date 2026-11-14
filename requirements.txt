@@ -1,10 +1,8 @@
-<<<<<<< HEAD
 asgiref==3.12.1
 contourpy==1.4.0
 cycler==0.12.1
 distlib==0.4.3
 Django==6.1.2
-djangorestframework==3.18.3
 filelock==4.1.1
 fonttools==4.66.0
 gunicorn==26.2.0
@@ -22,28 +20,3 @@ six==1.17.0
 sqlparse==0.6.0
 tzdata==2026.4
 virtualenv==21.14.7
-=======
-asgiref==3.12.1
-contourpy==1.4.0
-cycler==0.12.1
-distlib==0.4.3
-Django==6.1.2
-djangorestframework==3.18.3
-filelock==4.1.1
-fonttools==4.66.0
-gunicorn==26.2.0
-kiwisolver==1.5.1
-matplotlib==3.11.2
-numpy==2.5.3
-packaging==26.3
-pandas==3.0.6
-pillow==12.3.0
-platformdirs==4.13.0
-pyparsing==3.3.3
-python-dateutil==2.9.0.post0
-python-discovery==1.6.2
-six==1.17.0
-sqlparse==0.6.0
-tzdata==2026.4
-virtualenv==21.14.7
->>>>>>> fad0449 (Ready for deployment)
