@@ -19,7 +19,7 @@
                 <div class="alert alert-success mt-4">
                     <p class="mb-1">Short Link ready</p>
                     <a href="http://pb's/{{ short_url_obj.short_code }}" target="_blank" class="fw-bold text-break">
-                        http://127.0.0.1:8000/{{ short_url_obj.short_code }}
+                        request.get_host{{ short_url_obj.short_code }}
                     </a>
                     <br>
                     <a href="{% url 'update_url' short_url_obj.id %}" class="btn btn-sm btn-warning mt-3">Update</a>
